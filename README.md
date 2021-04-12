@@ -6,7 +6,7 @@
 * Kelas : S1SE-03A
 
 ## Tugas 1
-Calendar Widget
+### Calendar Widget
 ![Calendar Widget](https://user-images.githubusercontent.com/72422130/114355136-4da6a300-9b99-11eb-9bb8-142054f48ae2.png)
 
 ## Tugas 2
