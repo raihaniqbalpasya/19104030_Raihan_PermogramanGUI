@@ -17,3 +17,7 @@ dan No.Telp, fitur untuk menambahkan, mengedit, dan menghapus datadiri mahasiswa
 - Label
 
 ## Tampilan Widget
+Sebelum di preview :
+![Screenshot (903)](https://user-images.githubusercontent.com/72422130/116982670-49325d80-acf3-11eb-951e-524d8ff3e8cd.png)
+
+Sesudah di preview :
