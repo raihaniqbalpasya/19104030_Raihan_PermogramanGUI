@@ -11,10 +11,10 @@ dan No.Telp, fitur untuk menambahkan, mengedit, dan menghapus datadiri mahasiswa
 
 ## Detail Widget yang Digunakan
 - Layout : Main Window
-- Text Edit
-- Line Edit
-- Push Button
-- Label
+- Text Edit : Untuk mengisi deskripsi data mahasiswa
+- Line Edit : Untuk menginput Nama, NIM, Jurusan dan No.Telp mahasiswa
+- Push Button : Untuk menambahkan, mengedit, dan menghapus data mahasiswa
+- Label : Sebagai penamaan pada widget seperti Data Mahasiswa, NIM, Nama, Jurusan, dan No.Telp
 
 ## Tampilan Widget
 ### Sebelum di preview :
