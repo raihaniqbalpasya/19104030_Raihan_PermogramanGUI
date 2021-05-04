@@ -126,7 +126,7 @@ class Ui_MainWindow(object):
 "</style></head><body style=\" font-family:\'MS Shell Dlg 2\'; font-size:8.25pt; font-weight:400; font-style:normal;\">\n"
 "<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>"))
 
-        # Memberi nama setiap label
+        # Memberi nama setiap label dan button
         self.label.setText(_translate("MainWindow", "NIM"))
         self.label_2.setText(_translate("MainWindow", "Nama"))
         self.label_3.setText(_translate("MainWindow", "Jurusan"))
