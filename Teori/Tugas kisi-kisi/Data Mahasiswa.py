@@ -13,7 +13,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 
 class Ui_MainWindow(object):
 
-    #Mendekalrasikan Layout Main window beserta nama dan ukurannya
+    # Mendekalrasikan layout Main Window beserta nama dan ukurannya
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
         MainWindow.resize(581, 548)
