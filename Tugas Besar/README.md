@@ -2,7 +2,7 @@
 Aplikasi utuk diagnosa penyakit hanya dari rumah
 
 
-# Kelompok NICE
+## Kelompok NICE
 1. Rafi Awang Bagaskoro  - 19104018
 2. Raihan Iqbal Pasya    - 19104030
 3. Nirmaya Dwi Utami     - 19104044
