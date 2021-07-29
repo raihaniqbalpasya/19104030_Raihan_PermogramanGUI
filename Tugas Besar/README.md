@@ -16,6 +16,11 @@ Di era yang modern seperti sekarang ini, semua orang menginginkan segala sesuatu
 ## Deskripsi
 Aplikasi **Diagnose.it** ini bertujuan untuk membantu masyarakat agar dapat mendiagnosa penyakit ringan yang mereka alami tanpa harus pergi ke rumah sakit dan mengeluarkan biaya yang cukup mahal hanya untuk memeriksa kondisi kesehatan mereka. Aplikasi ini memiliki fitur utama yang dapat membantu masyarakat dalam mendiagnosa sekaligus mengobati penyakit yang mereka alami, yaitu fitur diagnosa yang dapat digunakan untuk mendiagnosa penyakit yang mereka alami hanya dengan menginputkan gejala yang sedang dirasakan. Dan fitur tambahan yaitu fitur artikel yang dapat digunakan untuk melihat berbagai artikel atau berita terkini mengenai kesehatan sebagai referensi serta menambah pengetahuan dan informasi.
 
+## Use Case Diagram
+
+
+## Desain Database
+
 
 ## Cara Penggunaan
 * Saat membuka apliaksi, user akan langsung diarahkan ke Menu Utama
@@ -30,13 +35,18 @@ Aplikasi **Diagnose.it** ini bertujuan untuk membantu masyarakat agar dapat mend
 * Pada Detail Penyakit akan ditampilkan nama penyakit, gejala, obat, metode penyembuhan, dan keterangan dari penyakit yang anda pilih.
 * User juga dapat melihat artikel seputar kesehatan pada Menu Utama dibagian Artikel Kesehatan Terbaru.
 
-
-## Use Case Diagram
-
-
-## Desain Database
+## Beberapa layout pada aplikasi Diagnose.it
 
 
-## Beberapa fitur PyQt pada aplikasi Diagnose.it
-### a. Widget yang digunakan
+## Beberapa Widget yang digunakan pada aplikasi Diagnose.it
+* QMainWindow
+* Qlabel       
+* QPushButton 
+* QComboBox    
+* QListWidget 
+* QTableWidget 
+* QTabWidget   
+* QFrame       
+* QScrollArea
+* QGroupBox
 
