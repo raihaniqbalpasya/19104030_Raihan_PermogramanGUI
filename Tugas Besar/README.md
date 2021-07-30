@@ -38,7 +38,7 @@ Aplikasi **Diagnose.it** ini bertujuan untuk membantu masyarakat agar dapat mend
 
 ## Beberapa layout pada aplikasi Diagnose.it
 #### 1. Menu Utama
-![image](https://user-images.githubusercontent.com/72425333/127525635-c1d539e5-d6a0-4a81-abb3-d4fe2db16e3d.png)
+![image](https://user-images.githubusercontent.com/72425333/127584682-3d93498d-c99c-4f36-a163-f2d8081a1523.png)
 
 #### 2. Halaman Artikel
 ![image](https://user-images.githubusercontent.com/72425333/127525946-8da2770b-997b-4be5-97ab-42a593319350.png)
