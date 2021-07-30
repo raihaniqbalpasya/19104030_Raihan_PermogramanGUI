@@ -17,7 +17,7 @@ Di era yang modern seperti sekarang ini, semua orang menginginkan segala sesuatu
 Aplikasi **Diagnose.it** ini bertujuan untuk membantu masyarakat agar dapat mendiagnosa penyakit ringan yang mereka alami tanpa harus pergi ke rumah sakit dan mengeluarkan biaya yang cukup mahal hanya untuk memeriksa kondisi kesehatan mereka. Aplikasi ini memiliki fitur utama yang dapat membantu masyarakat dalam mendiagnosa sekaligus mengobati penyakit yang mereka alami, yaitu fitur diagnosa yang dapat digunakan untuk mendiagnosa penyakit yang mereka alami hanya dengan menginputkan gejala yang sedang dirasakan. Dan fitur tambahan yaitu fitur artikel yang dapat digunakan untuk melihat berbagai artikel atau berita terkini mengenai kesehatan sebagai referensi serta menambah pengetahuan dan informasi.
 
 ## Use Case Diagram
-![WhatsApp Image 2021-07-29 at 23 40 43](https://user-images.githubusercontent.com/72425333/127531612-6d98797f-de59-4f55-8722-fe4291250921.jpeg)
+![UseCaseAplikasiDiagnose it](https://user-images.githubusercontent.com/72425333/127586180-92cb72ef-62f4-4b44-8e70-35f870c0b4ca.png)
 
 ## Desain Database
 ![image](https://user-images.githubusercontent.com/72425333/127528263-8a818fe2-da72-45bd-bb0b-c69c9a2f045c.png)
